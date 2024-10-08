@@ -1,0 +1,1 @@
+{"uuid":"113e09be-3f07-4180-8e6c-6c7b50c2cbba","name":"AddingNewDevice.addDevice","children":["8dc306f6-8846-47ee-8895-6e4925d6e083"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1728426579504,"stop":1728426579777}],"afters":[],"start":1728426579482,"stop":1728426581686}
